@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import sys
-##test
 
 def main(argv=None):
     if(argv==None):
